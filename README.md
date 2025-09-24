@@ -70,3 +70,4 @@
 
 
 
+The images are uploaded in assets folder.
